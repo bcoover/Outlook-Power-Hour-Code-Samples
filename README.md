@@ -7,8 +7,8 @@ Related Sessions
 ----------------
 * SharePoint Conference 2014 (Andrew Salamatov) - http://channel9.msdn.com/events/SharePoint-Conference/2014/SPC391
 * Microsoft Exchange Conference 2014 (Andrew Salamatov) - http://channel9.msdn.com/events/MEC/2014/EXT302
-* //build/ 2014 - http://channel9.msdn.com/events/Build/2014/3-574
-* TechEd North America 2014 - TBA
+* //build/ 2014 (Andrew Salamatov) - http://channel9.msdn.com/events/Build/2014/3-574
+* TechEd North America 2014 (Alex Park) - TBA
 
 MyAttachments
 -------------
