@@ -1,6 +1,8 @@
 Outlook-Power-Hour-Code-Samples
 ===================================================
 
+>**Note:**  We will be removing this sample from the site on November 30, 2016. If you’d like to keep a copy of this sample for your own reference, please download or clone the repo.
+
 These code samples are from the Outlook Power Hour sessions run at various conferences highlighting the power of Office Developer Platform.
 
 Related Sessions
